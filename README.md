@@ -1,29 +1,59 @@
-# Debt Tracker Website
+# Debt Tracker
 
-This repository hosts the public website for Debt Tracker.
+Debt Tracker is a simple offline-first app for keeping personal debts clear.
 
-## Pages
+Track who owes you money, what you owe others, how much has been paid, and what is still remaining. It is made for everyday personal use, especially when you want a quick record you can trust without setting up a server account.
 
-- `index.html` - app landing page
-- `privacy.html` - privacy policy for App Store and Play Store listings
-- `support.html` - support page for store review and users
-- `assets/icon.png` - app icon used by the website
+## Why Debt Tracker?
 
-## GitHub Pages
+Money between people can get confusing fast. Debt Tracker keeps the important details in one place:
 
-Publish from:
+- People and phone numbers
+- Money you lent
+- Money you borrowed
+- Paid amounts
+- Remaining balances
+- Due dates
+- Notes
+- Full and partial repayments
 
-```text
-Branch: main
-Folder: /root
-```
+## Built For Real Life
 
-## Before Publishing
+Debt Tracker helps with small personal loans, family debts, friend repayments, shop tabs, and any situation where you need to remember who should pay whom.
 
-Replace the support email placeholder in `support.html`:
+You can share a clean debt summary through apps like WhatsApp, call a person from a debt record, and see upcoming repayment dates before they are missed.
 
-```text
-YOUR_SUPPORT_EMAIL@example.com
-```
+## Private By Design
 
-After the app is live, replace the App Store placeholder link in `index.html`.
+Your debt records stay on your device. The app is offline-first and does not require a server account for your debt data.
+
+For backups, Debt Tracker can export encrypted backup files that you can save locally, in Files, Google Drive, or any app you trust.
+
+## Features
+
+- Track lent and borrowed money
+- Record full or partial payments
+- View remaining balances per person
+- Add repayment dates and notes
+- Share debt summaries
+- Call people from debt records
+- Export encrypted backups
+- Restore from encrypted backups
+- Optional app lock
+- Works offline
+
+## Languages
+
+Debt Tracker supports:
+
+- English
+- Arabic
+- Kurdish
+
+## Learn More
+
+Visit the website:
+
+- [Home](index.html)
+- [Privacy Policy](privacy.html)
+- [Support](support.html)
