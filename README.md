@@ -54,6 +54,6 @@ Debt Tracker supports:
 
 Visit the website:
 
-- [Home](index.html)
-- [Privacy Policy](privacy.html)
-- [Support](support.html)
+- [Home](https://auderhama.github.io/Debt-Tracker/)
+- [Privacy Policy](https://auderhama.github.io/Debt-Tracker/privacy.html)
+- [Support](https://auderhama.github.io/Debt-Tracker/support.html)
